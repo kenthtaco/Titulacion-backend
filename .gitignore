@@ -4,6 +4,9 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+
+src/main/resources/petshop-e0c28-firebase-adminsdk-*.json
+src/main/resources/google-services.json
 ### STS ###
 .apt_generated
 .classpath
